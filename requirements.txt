@@ -1,0 +1,11 @@
+pandas
+sqlalchemy
+requests
+boto3
+beautifulsoup4
+lxml
+python-dotenv  
+pymysql
+selenium
+webdriver-manager            
+undetected-chromedriver      

@@ -1,0 +1,123 @@
+{
+  "BELGIUM": {
+    "url": "https://www.afmps.be/fr/usage_humain/produits_de_sante/dispositifs_medicaux_et_leurs_accessoires/etablissements_et_5",
+    "docket_prefix": "AFMPS-MD",
+    "document_type": 6,
+    "agency_id": 1,
+    "program_id": 1,
+    "s3_country_folder": "BELGIUM",
+    "agency_sub": "AFMPS",
+    "base_s3_folder": "INTERNATIONAL_DOCS",
+    "folder_structure": "{base}/{country}/{agency_sub}/CONTENT/{docket_id}/{doc_id}/{doc_id}.{ext}",
+    "max_title_length": 250
+  },
+  "CHILE": {
+    "url": "https://www.ispch.gob.cl/normativa-andid/",
+    "docket_prefix": "ISP-CL",
+    "document_type": 6,
+    "agency_id": 2,
+    "program_id": 1,
+    "s3_country_folder": "CHILE",
+    "agency_sub": "ISPCH",
+    "base_s3_folder": "INTERNATIONAL_DOCS",
+    "folder_structure": "{base}/{country}/{agency_sub}/CONTENT/{docket_id}/{doc_id}/{doc_id}.{ext}",
+    "max_title_length": 250
+  },
+  "IMDRF": {
+    "url": "https://www.imdrf.org",
+    "docket_prefix": "IMDRF",
+    "document_type": 6,
+    "agency_id": 3,
+    "program_id": 1,
+    "s3_country_folder": "IMDRF",
+    "agency_sub": "IMDRF",
+    "base_s3_folder": "INTERNATIONAL_DOCS",
+    "folder_structure": "{base}/{country}/{agency_sub}/CONTENT/{docket_id}/{doc_id}/{doc_id}.{ext}",
+    "max_title_length": 250
+  },
+  "IRELAND": {
+    "url": "https://www.hpra.ie/regulation/medical-devices/documents-and-guidance/guidance-documents",
+    "docket_prefix": "HPRA-MD",
+    "document_type": 6,
+    "agency_id": 4,
+    "program_id": 1,
+    "s3_country_folder": "IRELAND",
+    "agency_sub": "HPRA",
+    "base_s3_folder": "INTERNATIONAL_DOCS",
+    "folder_structure": "{base}/{country}/{agency_sub}/CONTENT/{docket_id}/{doc_id}/{doc_id}.{ext}",
+    "max_title_length": 250
+  },
+  "NIGERIA": {
+    "url": "https://nafdac.gov.ng/vaccines-biologicals/vaccines-biologicals-guidelines/",
+    "docket_prefix": "NAFDAC",
+    "document_type": 6,
+    "agency_id": 5,
+    "program_id": 1,
+    "s3_country_folder": "NIGERIA",
+    "agency_sub": "NAFDAC",
+    "base_s3_folder": "INTERNATIONAL_DOCS",
+    "folder_structure": "{base}/{country}/{agency_sub}/CONTENT/{docket_id}/{doc_id}/{doc_id}.{ext}",
+    "max_title_length": 250
+  },
+  "SINGAPORE": {
+    "url": "https://www.hsa.gov.sg/medical-devices/guidance-documents",
+    "docket_prefix": "HSA-MD",
+    "document_type": 6,
+    "agency_id": 6,
+    "program_id": 1,
+    "s3_country_folder": "SINGAPORE",
+    "agency_sub": "HSA",
+    "base_s3_folder": "INTERNATIONAL_DOCS",
+    "folder_structure": "{base}/{country}/{agency_sub}/CONTENT/{docket_id}/{doc_id}/{doc_id}.{ext}",
+    "max_title_length": 250
+  },
+  "SLOVENIA": {
+    "url": "https://www.jazmp.si/en/human-medicines/regulatory-information/marketing-authorisation/jazmp-guidelines/",
+    "docket_prefix": "JAZMP-MD",
+    "document_type": 6,
+    "agency_id": 7,
+    "program_id": 1,
+    "s3_country_folder": "SLOVENIA",
+    "agency_sub": "JAZMP",
+    "base_s3_folder": "INTERNATIONAL_DOCS",
+    "folder_structure": "{base}/{country}/{agency_sub}/CONTENT/{docket_id}/{doc_id}/{doc_id}.{ext}",
+    "max_title_length": 250
+  },
+  
+  "THAILAND": {
+    "url": "https://en.fda.moph.go.th/cat2-health-products/category/health-products-medical-devices?ppp=20&page=1",
+    "docket_prefix": "TH-FDA",
+    "document_type": 6,
+    "agency_id": 8,
+    "program_id": 1,
+    "s3_country_folder": "THAILAND",
+    "agency_sub": "FDA-TH",
+    "base_s3_folder": "INTERNATIONAL_DOCS",
+    "folder_structure": "{base}/{country}/{agency_sub}/CONTENT/{docket_id}/{doc_id}/{doc_id}.{ext}",
+    "max_title_length": 200
+  },
+    "HONG_KONG": {
+    "url": "https://www.mdd.gov.hk/en/useful-information/issued-documents-under-mdacs/index.html",
+    "docket_prefix": "HK-MDD",
+    "document_type": 6,
+    "agency_id": 9,
+    "program_id": 1,
+    "s3_country_folder": "HONG_KONG",
+    "agency_sub": "MDD",
+    "base_s3_folder": "INTERNATIONAL_DOCS",
+    "folder_structure": "{base}/{country}/{agency_sub}/CONTENT/{docket_id}/{doc_id}/{doc_id}.{ext}",
+    "max_title_length": 250
+  },
+    "JAPAN": {
+    "url": "https://www.pmda.go.jp/english/review-services/regulatory-info/0021.html",
+    "docket_prefix": "PMDA-MD",
+    "document_type": 6,
+    "agency_id": 10,
+    "program_id": 1,
+    "s3_country_folder": "JAPAN",
+    "agency_sub": "PMDA",
+    "base_s3_folder": "INTERNATIONAL_DOCS",
+    "folder_structure": "{base}/{country}/{agency_sub}/CONTENT/{docket_id}/{doc_id}/{doc_id}.{ext}",
+    "max_title_length": 250
+  }
+}
